@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.img {
+    width: 200px;
+    border-radius: 52%;
+
+}
+.divContainer{
+    display: flex;
+    gap: 50px;
+border: solid black 1px;
+width: 600px;
+}
